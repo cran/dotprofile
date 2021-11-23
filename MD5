@@ -1,0 +1,12 @@
+ec2d6c4111249b2491f56f90fbb4e2e8 *DESCRIPTION
+d22a889820e6164f49e49dca30b664a4 *LICENSE
+6ef20c9b03ed6111c11ac3f3bbdc4493 *NAMESPACE
+1549bc5523393ba1bf007980bd39bbee *NEWS.md
+b4308a2a6a33352eee7e6018552a425a *R/dotprofile-package.R
+27f711ba0a3391858022d4b19ca02f8a *R/ui.R
+1a96f3f89b3f69de135aa2f5ea34face *README.md
+2edd1c194f355da13a1f376f72bd2f4b *man/dotprofile-package.Rd
+b22f08944e35e44cc7c9e71ba38dbf55 *man/dotprofile-ui.Rd
+b8c60710cb6b9f13c4d091d78361f460 *tests/testthat.R
+f0dd8c8f4f7ddb4bbcee17341b5b6fdf *tests/testthat/_snaps/ui.md
+3936ded3f5f6bbd9ff5ca738606f934c *tests/testthat/test-ui.R
